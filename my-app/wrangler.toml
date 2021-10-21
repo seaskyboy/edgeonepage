@@ -1,0 +1,6 @@
+account_id = "2acdf23d8003bfb9dab8baf7681269e9"
+name = "edge-demo"
+type = "webpack"
+workers_dev = true
+site = { bucket = "./public" }
+compatibility_date = "2021-10-21"
